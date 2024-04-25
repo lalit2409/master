@@ -1,0 +1,15 @@
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\obj\Debug\net8.0\SpeedyAirly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\obj\Debug\net8.0\SpeedyAirly.AssemblyInfoInputs.cache
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\obj\Debug\net8.0\SpeedyAirly.AssemblyInfo.cs
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\obj\Debug\net8.0\SpeedyAirly.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\bin\Debug\net8.0\SpeedyAirly.exe
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\bin\Debug\net8.0\SpeedyAirly.deps.json
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\bin\Debug\net8.0\SpeedyAirly.runtimeconfig.json
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\bin\Debug\net8.0\SpeedyAirly.dll
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\bin\Debug\net8.0\SpeedyAirly.pdb
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\obj\Debug\net8.0\SpeedyAirly.dll
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\obj\Debug\net8.0\refint\SpeedyAirly.dll
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\obj\Debug\net8.0\SpeedyAirly.pdb
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\obj\Debug\net8.0\SpeedyAirly.genruntimeconfig.cache
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\obj\Debug\net8.0\ref\SpeedyAirly.dll
+C:\Users\Lalit Pacheria\source\repos\SpeedyAirly\SpeedyAirly\bin\Debug\net8.0\coding-assigment-orders.json
