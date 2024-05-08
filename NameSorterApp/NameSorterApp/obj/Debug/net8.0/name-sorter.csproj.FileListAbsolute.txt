@@ -1,0 +1,15 @@
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\bin\Debug\net8.0\name-sorter.exe
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\bin\Debug\net8.0\name-sorter.deps.json
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\bin\Debug\net8.0\name-sorter.runtimeconfig.json
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\bin\Debug\net8.0\name-sorter.dll
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\bin\Debug\net8.0\name-sorter.pdb
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\obj\Debug\net8.0\name-sorter.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\obj\Debug\net8.0\name-sorter.AssemblyInfoInputs.cache
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\obj\Debug\net8.0\name-sorter.AssemblyInfo.cs
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\obj\Debug\net8.0\name-sorter.csproj.CoreCompileInputs.cache
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\obj\Debug\net8.0\name-sorter.sourcelink.json
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\obj\Debug\net8.0\name-sorter.dll
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\obj\Debug\net8.0\refint\name-sorter.dll
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\obj\Debug\net8.0\name-sorter.pdb
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\obj\Debug\net8.0\name-sorter.genruntimeconfig.cache
+G:\Git\EShopMicroservices\NameSorterApp\NameSorterApp\obj\Debug\net8.0\ref\name-sorter.dll
