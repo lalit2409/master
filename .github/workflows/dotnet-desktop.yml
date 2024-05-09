@@ -1,4 +1,4 @@
-name: CI
+name: CI-names-sorter
 
 on:
   push:
@@ -18,13 +18,13 @@ jobs:
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: '8.0' 
+        dotnet-version: '3.1.x'  # Replace with your desired .NET Core version
 
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore NameSorterApp/NameSorterApp/name-sorter.csproj
 
     - name: Build
-      run: dotnet build --configuration Release
+      run: dotnet build NameSorterApp/NameSorterApp/name-sorter.csproj --configuration Release
 
     - name: Test
-      run: dotnet test --configuration Release --no-build
+      run: dotnet test NameSorterApp/name-sorter.Test/name-sorter.Tests.csproj --configuration Release --no-build
