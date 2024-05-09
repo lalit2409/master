@@ -13,12 +13,12 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
 
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: '3.1.x'  # Replace with your desired .NET Core version
+        dotnet-version: 'net8.0'  # Replace with your desired .NET Core version
 
     - name: Restore dependencies
       run: dotnet restore NameSorterApp/NameSorterApp/name-sorter.csproj
