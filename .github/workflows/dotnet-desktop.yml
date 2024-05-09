@@ -10,12 +10,16 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
 
     steps:
     - uses: actions/checkout@v2
 
-    - name: Setup .NET8
+    - name: Setup .NET 8
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: '8'  # Replace with your desired .NET Core version
