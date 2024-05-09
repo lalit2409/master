@@ -31,4 +31,4 @@ jobs:
       run: dotnet build NameSorterApp/NameSorterApp/name-sorter.csproj --configuration Release
 
     - name: Test
-      run: dotnet test NameSorterApp/name-sorter.Test/name-sorter.Test.csproj --configuration Release --no-build
+      run: dotnet test NameSorterApp/name-sorter.Test/name-sorter.Test.csproj --configuration Release
